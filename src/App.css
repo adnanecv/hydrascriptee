@@ -1,0 +1,451 @@
+.site-content{
+    background:white;
+}
+.adnaneimage{
+
+    opacity: 1;
+}
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300&display=swap');
+
+.containernav{
+
+    height: 87px;
+    background-color: rgba(13, 35, 64/ 25%);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter : blur(3px);
+    display: flex;
+    align-items: center;
+    color: white;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin: 0px 26px 0 26px;
+    box-shadow: 1px 21px 104px 30px rgba(0,79,135,1);
+    -webkit-box-shadow: 1px 21px 104px 30px rgba(0,79,135,1);
+    -moz-box-shadow: 1px 21px 104px 30px rgba(0,79,135,1);
+}
+.list-reset.text-xs.header-nav-right{
+
+    justify-content: center;
+    color: white;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+.container-sm1{
+    display:flex;
+    align-items: center;
+    flex-wrap: wrap;
+ 
+    width: 100%;
+    height: 100%;
+}
+.par-wrapper{
+    position : absolute;
+    top : 0;
+    width : 100%;
+    height : 100vh
+}
+.splashCont {
+  
+
+    width: 100%;
+    position: relative;
+    top: 0;
+    height: 100%;
+}
+
+.slideShowWrapper { 
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height : 100%;
+    justify-content: center;
+    align-items: center;
+    display : flex;
+    margin-top: 60px;
+    
+}
+.center-content {
+    text-align: center;
+    height: 479px;
+}
+.quisomme{
+margin-top: 20px;
+
+    display: flex;
+}
+
+
+.TextS{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: 'Abhaya Libre', serif;
+
+    font-size: 20px;
+    color: #4a4a4a;
+    line-height: 1.6;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+;.p {
+   
+}
+.sh2{
+    margin-left: 20px;
+    font-size: 30px;
+    margin-top: 5px;
+    font-family: 'Asap Condensed', sans-serif;
+    font-family: 'Oswald', sans-serif;
+
+}.hi1{
+    display: none;
+}
+@media screen and (max-width :600px) {
+    .quisomme{
+margin-right: 200px;
+;
+        display: inline-block
+    }
+    .hi1{
+        display: block;
+    }
+    
+   
+}.imaj31{
+    justify-content: center;
+
+    margin-left: -10px;
+margin-top: 60px;
+    width: 1200px;
+}
+
+@media screen and (max-width :800px) {
+    
+    .imaj{
+        display: inline-block; width: 4px; height: 286px;
+        margin-left: 0px;
+        margin-right: 0px;
+     
+        left: 0px;
+    right: 0px;
+        
+        ;}
+        .divimage{
+     justify-content: center;
+            margin: auto;
+       
+            margin-left: 29px;
+           display: inline-block; width: 350px; height: 22px;
+          }
+         
+
+}
+.bandcontainer{
+    justify-content: center;
+    margin-top: 30px;
+    
+    display: flex;
+}
+
+@media screen and (max-width :800px) {
+
+    .bandcontainer{
+         
+     
+       display: block; 
+      
+      }
+      .imaj{
+        justify-content: center;
+    
+        margin-left: -10px;
+    margin-top: 60px;
+        width: 100%;
+    }
+    .imaj31{
+        justify-content: center;
+    
+        margin-left: -10px;
+    margin-top: 60px;
+        width: 1200px;
+    }
+    
+    .bandcontainer{
+      
+        display: block;
+    }
+    .band1{
+        display: inline-block;
+        background-color: #406da4;
+        text-align: center;
+    
+        
+    width: 400px;
+    }
+    .band3{
+        display: inline-block;
+        background-color: #406da4;
+        text-align: center;
+        
+       
+      
+    }
+    .band2{
+        background-color: #406da4;
+        text-align: center;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+     
+    }
+ 
+    
+
+}
+.imaj{
+    justify-content: center;
+
+    margin-left: -10px;
+margin-top: 60px;
+    width: 1200px;
+}
+
+
+.band1{
+    font-family: 'Oswald', sans-serif;
+
+    background-color: #406da4;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.band3{
+    font-family: 'Oswald', sans-serif;
+
+    background-color: #406da4;
+    text-align: center;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.band2{
+    font-family: 'Oswald', sans-serif;
+
+    background-color: #406da4;
+    text-align: center;
+ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imaj3{
+    display:block;
+    margin:auto;
+    justify-content: center;
+    margin-top:20px;
+    width: 100px;
+   
+}
+.imaj31{
+    display:block;
+    margin:auto;
+    justify-content: center;
+    margin-top:2px;
+    width: 70px;
+   
+}
+
+.hb{
+    font-family: 'Asap Condensed', sans-serif;
+
+font-size:28px;
+    color: #fff;
+    margin-top:0px;
+    display:block;
+    margin:auto;
+    justify-content: center;
+    margin-top:-2px;
+  
+}
+.hb1{
+    color: #fff;
+    margin-top:50px;
+    font-size:  22px;
+    display:block;
+    margin:auto;
+    justify-content: center;
+font-family: 'Abhaya Libre', serif;
+
+    margin-top:-10px;
+}
+.hb11{
+    color: #fff;
+    margin-top:50px;
+    font-size:  22px;
+    display:block;
+    margin:auto;
+    justify-content: center;
+font-family: 'Abhaya Libre', serif;
+
+    margin-top:-3px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@600&family=Oswald&display=swap');
+
+.parag{
+    font-family: 'Oswald', sans-serif;
+  
+
+}
+.mt-0.mb-8{
+    font-family: 'Asap Condensed', sans-serif;
+
+}
+.m-0.text-sm{
+    font-family: 'Abhaya Libre', serif;
+
+}
+.band22{
+
+
+    margin-top: -100px;
+}
+.containerse{
+ 
+
+}
+.illustration-section-01{
+    display: block;
+    
+} 
+.m-0{
+    font-family: 'Abhaya Libre', serif;
+}
+.mt-0.mb-12{
+  
+    font-family: 'Abhaya Libre', serif;
+    color: rgb(22, 102, 186);
+
+}
+.text-sm.mb-0{
+
+    font-family: 'Abhaya Libre', serif;
+    color: white;
+    ;
+}
+.site-footer {
+    background-color: rgb(9, 43, 80);
+    position: relative;
+}
+.tiles-item-innerd{
+    background-color: rgb(222, 236,251);
+}
+.tiles-item.reveal-from-rightt{
+background-color:  rgb(22, 102, 186);;
+
+}
+.containerv{
+background-color: aqua;
+}
+.footer-copyright{
+    color: white;
+}.list-reset{
+
+    color: #fff;
+}
+
+.imagelogo{
+
+
+    margin-top: -2000px;;
+    width: 160px;
+}
+.header-nav-inner{
+    font-family: 'Abhaya Libre', serif;
+    color: rgb(232, 12, 12);
+    
+
+}
+.whatsap{
+    display: flex;
+    justify-content: space-between;
+ 
+   
+}
+@media (max-width: 640px)
+{
+
+    .header-nav-toggle + .header-nav {
+        background-color:  #102444;
+      
+    }
+}
+.header-nav-inner{
+    cursor: pointer;
+}
+.whatsap{
+    font-family: 'Abhaya Libre', serif;
+    font-size: 20px;
+    display: flex;
+   
+    color: #fff;
+    justify-content: center;
+   
+}
+.logoo{
+    margin-top: -3px;
+   margin-right: 10px;
+    height: 30px;
+    width: 30px;
+}
+.whatsap{
+    justify-content: left!important;
+    padding-left: 30px;
+}@media (max-width: 640px)
+{
+
+    .whatsap{
+        justify-content: center!important;
+        padding-left: 0px!important
+      
+    }
+}
+.footer{
+    display: flex!important;
+    justify-content: space-around!important
+}@media (max-width: 640px)
+{
+
+    .footer{
+        display: block!important;
+
+      
+    }
+}
+.logof{
+  
+   margin-top: 30px;
+   padding-left: 46%;
+
+}
+.pare{
+    font-family: 'Abhaya Libre', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    color: #fff;
+    margin-top: -20px;
+}.typeWrapper{
+ 
+    margin-top: -100px;
+        font-size: 40px;
+        font-family: 'Abhaya Libre', serif;
+        padding-left:46%;
+        color: #fff;
+      }
